@@ -1,1 +1,1 @@
-This project will be my attempt at creating my first landing page with the use of css.
+This project will be my attempt at creating my first landing page with html code and then style it with of css.
