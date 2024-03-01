@@ -40,23 +40,48 @@ nav ul {
 
 nav li {
     margin-right: 50px;
+}
+
+nav li, .secondary {
     font-size: 18px;
     color: #E5E7EB;
+}
+
+.headertext {
+    margin: auto;
 }
 
 .topmain {
     flex: 1;
     padding: 20px;
     box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.headertext {
-    text-align: left;
+.maintext {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
 }
 
 .chili {
     max-width: 100%;
     height: auto;
+    width: auto;
+    margin: auto;
+    padding: auto;
+}
+
+.topbutton {
+    font-weight: bold;
+    background-color: #3882F6;
+    list-style: none;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    color: #f9faf8;
 }
 
 
